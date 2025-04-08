@@ -14,6 +14,7 @@ Such systems are governed by nonlinear differential or difference equations and 
 
 Nonlinear dynamical systems appear across many scientific domains:
 
+- 🔥 Environmental modeling: *Forest fire dynamics and spread models*
 - 🌪️ Atmospheric science: *Lorenz attractor*
 - 🧠 Neuroscience: *Neural oscillators and circuits*
 - 🌱 Ecology: *Predator-prey interactions*
