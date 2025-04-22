@@ -18,7 +18,7 @@ Nonlinear dynamical systems appear across many scientific domains:
 - 🌪️ Atmospheric science: *Lorenz attractor* [WikiLink](https://en.wikipedia.org/wiki/Lorenz_system)
 - 🔬 Materials science: *Glass transition* [WikiLink](https://en.wikipedia.org/wiki/Glass_transition)
 - 🌀 Turing instability: *Reaction–diffusion systems and pattern formation* [WikiLink](https://en.wikipedia.org/wiki/Turing_pattern)
-- 🧠 Neuroscience: *Neural oscillators and circuits*
+- 🧠 Neuroscience: *Neural oscillators and circuits* [WikiLink](https://en.wikipedia.org/wiki/Neural_oscillation)
 - 🌱 Ecology: *Predator-prey interactions*
 - ⚙️ Engineering: *Nonlinear control systems*
 - 📈 Economics: *Market and population dynamics*
